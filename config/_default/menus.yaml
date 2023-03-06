@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 6e25c164-553b-45ce-9792-913a4a49c90a
+  name: menu
+  url: /pages/test
+  weight: 10
